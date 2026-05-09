@@ -54,7 +54,7 @@ export const SYSTEM_MAP: SystemInfo[] = [
   {
     name: "Sony - PlayStation",
     systemeid: 57,
-    extensions: [".cue", ".iso", ".bin", ".img", ".chd"],
+    extensions: [".cue", ".iso", ".bin", ".img", ".chd", ".m3u"],
   },
   // Thêm các hệ máy khác nếu cần
 ];
